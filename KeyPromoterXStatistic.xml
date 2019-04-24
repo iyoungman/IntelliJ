@@ -121,6 +121,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MarketingServiceTest.getCampaigns'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'MarketingServiceTest.getCampaigns'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'QuickStartExample'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
