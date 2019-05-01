@@ -225,6 +225,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BOJ_크로아티아알파벳'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_크로아티아알파벳'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FacebookMarketingApiApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
