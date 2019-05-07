@@ -161,6 +161,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AdSetServiceTest.searchUser'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'AdSetServiceTest.searchUser'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FacebookMarketingApiApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
