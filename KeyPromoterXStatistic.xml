@@ -145,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CampaignServiceTest.getCampaigns'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'CampaignServiceTest.getCampaigns'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Kakao1_1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
