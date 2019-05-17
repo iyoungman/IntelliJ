@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -22,7 +22,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'FetchInnerdtoApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LottoTicketTest.publicLottoTicketByMoney_정상금액'">
@@ -359,6 +359,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FacebookMarketingApiApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FetchInnerdtoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FetchInnerdtoApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IntegrationTest.integration'">
