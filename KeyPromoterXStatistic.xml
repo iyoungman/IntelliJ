@@ -449,6 +449,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ModelToDtoTest.modelToDto'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ModelToDtoTest.modelToDto'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OliveBakeryApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
