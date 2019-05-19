@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'MemberRepositoryTest.dwdw'</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OliveBakeryApplication'">
