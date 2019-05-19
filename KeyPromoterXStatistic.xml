@@ -41,6 +41,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ModelMapperTest.expressionMapping'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'ModelMapperTest.expressionMapping'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ModelMapperTest.mapSourceToDestination'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -167,6 +175,14 @@
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -326,6 +342,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'MemberRepositoryTest.dwdw'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ModelMapperTest.expressionMapping'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'ModelMapperTest.expressionMapping'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -582,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>148</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
