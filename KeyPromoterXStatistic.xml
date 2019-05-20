@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ShotenUrlServiceTest.convertToExpandShortenUrl'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'ShotenUrlServiceTest.convertToExpandShortenUrl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ShotenUrlServiceTest.info'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
