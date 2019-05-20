@@ -569,6 +569,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ReservationServiceTest.getReservationInfoRecently_최신예약_한건_조회'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ReservationServiceTest.getReservationInfoRecently_최신예약_한건_조회'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ReservationServiceTest.getReservationInfos'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
