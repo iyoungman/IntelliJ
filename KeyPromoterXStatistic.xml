@@ -417,6 +417,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ReservationGetServiceTest.getReservationInfoRecently_최신예약_한건_조회'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'ReservationGetServiceTest.getReservationInfoRecently_최신예약_한건_조회'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ReservationGetServiceTest.getReservationInfosByDate_선택날짜_예약목록_조회'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
