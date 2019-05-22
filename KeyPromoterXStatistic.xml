@@ -177,6 +177,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Directory Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F12'</ShortCut>
+          <Description>Directory Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="MakeJson">
         <Item>
           <IdeaActionID>BMPOJOtoJson.Convert2</IdeaActionID>
