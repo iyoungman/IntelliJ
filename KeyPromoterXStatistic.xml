@@ -425,6 +425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MopApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'MopApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MyClubRepositoryImplTest.fetch'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
