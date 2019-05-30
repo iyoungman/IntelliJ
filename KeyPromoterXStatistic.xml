@@ -561,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ShortenUrlCreateServiceTest.testValue'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'ShortenUrlCreateServiceTest.testValue'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ShortenUrlServiceTest.fetchLinkClickInfosByUser'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
