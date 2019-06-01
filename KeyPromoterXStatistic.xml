@@ -473,6 +473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MemberRepositoryTest.setUp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'MemberRepositoryTest.setUp'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ModelMapperTest.expressionMapping'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
