@@ -777,6 +777,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MvcSpringApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MvcSpringApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MyClubRepositoryImplTest.fetch'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
