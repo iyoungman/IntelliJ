@@ -47,10 +47,16 @@
                 <id>IconsUsabilityLintAndroid</id>
               </State>
               <State>
+                <id>InteroperabilityLintAndroid</id>
+              </State>
+              <State>
                 <id>Java</id>
               </State>
               <State>
                 <id>JavaFX</id>
+              </State>
+              <State>
+                <id>Kotlin InteroperabilityInteroperabilityLintAndroid</id>
               </State>
               <State>
                 <id>LintAndroid</id>
@@ -80,6 +86,11 @@
                 <id>XSLT</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>AEM</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -90,7 +101,7 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="preferences.editor" />
+        <property name="settings.editor.selected.configurable" value="vcs.Git" />
       </component>
       <component name="masterDetails">
         <states>
