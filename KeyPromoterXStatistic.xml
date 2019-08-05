@@ -513,6 +513,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Woowahan_Test1_배짱이당첨자추첨'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Woowahan_Test1_배짱이당첨자추첨'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'kakao11'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>279</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
