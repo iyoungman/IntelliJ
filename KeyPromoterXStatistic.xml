@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BOJ_1431_시리얼번호'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BOJ_1431_시리얼번호'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BOJ_16500_문자열판별'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
