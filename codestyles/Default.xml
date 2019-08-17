@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
   <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
@@ -12,8 +13,6 @@
     </option>
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
+    <option name="RIGHT_MARGIN" value="100" />
   </codeStyleSettings>
 </code_scheme>
