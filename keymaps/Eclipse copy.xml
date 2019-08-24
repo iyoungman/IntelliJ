@@ -1,8 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="CopyPaths" />
+  <action id="EditorContextInfo" />
   <action id="FindUsages" />
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="ctrl g" />
