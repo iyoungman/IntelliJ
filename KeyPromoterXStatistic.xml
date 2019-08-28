@@ -585,6 +585,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BOJ_9375_패션왕신해빈'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BOJ_9375_패션왕신해빈'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BigDataApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
