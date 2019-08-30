@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\settings.gradle [gradle-multi-module]'" />
-    <option name="defaultScopeName" value="File '...\settings.gradle [gradle-multi-module]'" />
-    <option name="SEARCH_SCOPE" value="File '...\settings.gradle [gradle-multi-module]'" />
+    <option name="customScope" value="Directory '... [admin-practice]'" />
+    <option name="defaultScopeName" value="Directory '... [admin-practice]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [admin-practice]'" />
   </component>
 </application>
