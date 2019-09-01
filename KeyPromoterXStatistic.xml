@@ -713,6 +713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Lesson12_CommonPrimeDivisors'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'Lesson12_CommonPrimeDivisors'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Lesson4_MaxCounters'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
