@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>103</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="MakeJson">
@@ -622,7 +622,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'BOJ_16936_나3곱2'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BOJ_1707_이분그래프'">
