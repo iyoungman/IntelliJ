@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'BOJ_1022_소용돌이예쁘게출력하기'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BOJ_1068_트리'">
@@ -574,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'BOJ_1022_소용돌이예쁘게출력하기'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BOJ_1068_트리'">
@@ -967,6 +967,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BOJ_1010_다리놓기'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BOJ_1022_소용돌이예쁘게출력하기'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_1022_소용돌이예쁘게출력하기'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BOJ_1068_트리'">
