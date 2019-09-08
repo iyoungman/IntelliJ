@@ -833,6 +833,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Kakao2017_2_다트게임'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'Kakao2017_2_다트게임'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Kakao2017_Test2_뉴스클러스터링'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
