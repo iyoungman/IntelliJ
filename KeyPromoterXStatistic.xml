@@ -313,6 +313,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Kakao2017_5_뉴스클러스터링'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'Kakao2017_5_뉴스클러스터링'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Kakao2017_Test1_추석트래픽'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -855,6 +863,14 @@
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'Kakao2017_4_셔틀버스'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Kakao2017_5_뉴스클러스터링'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'Kakao2017_5_뉴스클러스터링'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Kakao2017_Test2_뉴스클러스터링'">
@@ -1438,7 +1454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>782</Count>
+          <Count>784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
