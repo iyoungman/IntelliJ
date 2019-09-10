@@ -1433,6 +1433,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Naver_3'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Naver_3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OliveBakeryApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
