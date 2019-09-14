@@ -1481,6 +1481,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'KakaoCode2017_4_4단고음'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'KakaoCode2017_4_4단고음'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Lesson10_CountFactors'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
