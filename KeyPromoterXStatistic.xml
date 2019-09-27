@@ -1833,6 +1833,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BOJ_2014_소수의곱'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_2014_소수의곱'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BOJ_2212_센서'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
