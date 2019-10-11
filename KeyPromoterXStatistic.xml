@@ -1217,6 +1217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BOJ_1963_소수경로'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BOJ_1963_소수경로'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BOJ_1966_프린터큐'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1935,6 +1943,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BOJ_1912_연속합'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BOJ_1963_소수경로'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_1963_소수경로'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BOJ_2014_소수의곱'">
