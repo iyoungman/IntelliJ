@@ -1561,6 +1561,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MopApiApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'MopApiApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MopApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
