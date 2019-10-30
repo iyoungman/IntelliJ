@@ -1385,6 +1385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HighestValuePalindrome'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'HighestValuePalindrome'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JwtServiceTest.aa'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
