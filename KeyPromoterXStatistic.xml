@@ -1377,6 +1377,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BoardMockCreateTest.createMockData'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BoardMockCreateTest.createMockData'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FacebookMarketingApiApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
