@@ -713,6 +713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'NONGSIM_3'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'NONGSIM_3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Naver_1'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -2526,7 +2534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1510</Count>
+          <Count>1524</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
