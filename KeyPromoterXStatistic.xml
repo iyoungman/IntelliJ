@@ -1377,6 +1377,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BOJ_1987_알파벳'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BOJ_1987_알파벳'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BOJ_2512_예산'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
