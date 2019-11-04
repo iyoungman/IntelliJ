@@ -1070,7 +1070,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'BOJ_9663_NQueen'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BigDataApplication'">
