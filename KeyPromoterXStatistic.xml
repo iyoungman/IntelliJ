@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'BOJ_1987_알파벳'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BOJ_1991_트리순회'">
@@ -2159,6 +2159,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BOJ_1963_소수경로'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BOJ_1987_알파벳'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_1987_알파벳'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BOJ_2014_소수의곱'">
