@@ -1905,6 +1905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PGMS_디스크컨트롤러'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'PGMS_디스크컨트롤러'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PGMS_섬연결하기'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
