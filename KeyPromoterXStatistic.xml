@@ -2473,6 +2473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BOJ_2606_바이러스'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BOJ_2606_바이러스'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BOJ_4963_섬의개수'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
