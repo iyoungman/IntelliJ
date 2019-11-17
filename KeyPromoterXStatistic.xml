@@ -1649,6 +1649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BOJ_2869_달팽이는올라가고싶다'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BOJ_2869_달팽이는올라가고싶다'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BOJ_3085_사탕게임'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
