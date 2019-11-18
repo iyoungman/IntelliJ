@@ -2249,6 +2249,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestJdbcApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'TestJdbcApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ZUM_1'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2887,6 +2895,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Test1_배짱이당첨자추첨'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestJdbcApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TestJdbcApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Woowahan_Test1_배짱이당첨자추첨'">
