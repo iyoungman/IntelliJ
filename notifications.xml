@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Scala Plugin Update" displayType="NONE" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
+  </component>
+</application>
