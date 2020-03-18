@@ -14,7 +14,11 @@
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDuplicate" />
+  <action id="ExtractSuperclass">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="IntroduceParameter" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
