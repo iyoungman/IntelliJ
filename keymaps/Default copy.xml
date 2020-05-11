@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -22,8 +23,14 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="IntroduceParameter" />
+  <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="openAssertEqualsDiff" />
 </keymap>
