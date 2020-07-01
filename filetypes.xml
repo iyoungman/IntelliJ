@@ -5,6 +5,7 @@
       <mapping pattern="module-info" type="JAVA" />
       <mapping pattern="TEST_FILE" type="PLAIN_TEXT" />
       <mapping pattern="dwd" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping pattern="application-local" type="YAML" />
     </extensionMap>
   </component>
