@@ -6,6 +6,7 @@
       <mapping pattern="TEST_FILE" type="PLAIN_TEXT" />
       <mapping pattern="dwd" type="PLAIN_TEXT" />
       <mapping pattern="application-local" type="YAML" />
+      <mapping pattern="application-redis" type="YAML" />
     </extensionMap>
   </component>
 </application>
