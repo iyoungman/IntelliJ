@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="module-info" type="JAVA" />
       <mapping pattern="TEST_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="dwd" type="PLAIN_TEXT" />
       <mapping pattern="application-local" type="YAML" />
       <mapping pattern="application-redis" type="YAML" />
